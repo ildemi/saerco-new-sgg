@@ -164,14 +164,13 @@ Tal como se establece en el apartado 3.1 del Manual del SGG:
 
 La arquitectura documental actual se basa en una **estructura piramidal**:
 
-           MANUAL DEL SGG
+MANUAL DEL SGG
                  │
    ┌─────────────┼─────────────┐
 
 PROCEDIMIENTOS       INSTRUCCIONES FORMATOS
                                 │
                       REGISTROS DEL SISTEMA
-
 
 Cada nivel documental desarrolla o evidencia el nivel anterior.
 
