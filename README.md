@@ -1,3 +1,5 @@
+<img src="./assets/saerco-logo.png" alt="SAERCO" width="200"/>
+
 # SAERCO-NEW-SGG
 
 Este repositorio contiene la guía y documentación para la evolución del Sistema General de Gestión (SGG) de SAERCO hacia una arquitectura modular, trazable y compatible con herramientas de inteligencia artificial.
