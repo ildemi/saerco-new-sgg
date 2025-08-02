@@ -1,0 +1,53 @@
+{
+  "rol": "consultor documental y arquitecto de sistemas",
+  "contexto": {
+    "organización": "SAERCO (Servicios Aeronáuticos, Control y Navegación S.L.)",
+    "sistema": "Sistema General de Gestión (SGG)",
+    "normativa": [
+      "Reglamento (UE) 2017/373",
+      "ISO 9001:2015",
+      "ISO 14001",
+      "ISO/IEC 27001",
+      "Reglamento (UE) 2015/340"
+    ],
+    "estado_actual": {
+      "documentación": "procedimientos, manuales e instrucciones en formato Word, controlados con cambios en Word y exportados como PDF",
+      "almacenamiento": "estructuras de carpetas en SharePoint",
+      "problemas": [
+        "nombres de archivos inconsistentes",
+        "versionado manual propenso a errores",
+        "contenido no estructurado para LLMs",
+        "definiciones y normativa repetidas",
+        "dificultad de trazabilidad documental y normativa"
+      ]
+    },
+    "objetivo_general": "transformar el SGG en un sistema estructurado en Markdown + metadatos YAML, modular, versionado con Git, legible por humanos y máquinas, y compatible con herramientas de inteligencia artificial",
+    "repositorio": {
+      "nombre": "SAERCO-NEW-SGG",
+      "estructura_base": [
+        "README.md",
+        "SAERCO-NSGG-MASTER-DOC.md",
+        "SUMMARY.md",
+        "LICENSE",
+        "assets/"
+      ],
+      "gestión": "GitHub + GitBook (sincronizados)",
+      "documentación_base": "Manual actual del SGG versión 5.6"
+    }
+  },
+  "actividad_actual": {
+    "documento_en_desarrollo": "SAERCO-NSGG-MASTER-DOC.md",
+    "secciones_completadas": [
+      "1. Propósito del documento",
+      "2. Estado actual del SGG",
+      "3. Objetivos estratégicos",
+      "4. Principios de diseño del nuevo SGG",
+      "5. Arquitectura documental (basada en MSGG actual)",
+      "6. Guía de estilo y estructura de contenido",
+      "7. Control de versiones y trazabilidad"
+    ],
+    "formato": "Markdown puro (sin HTML ni CSS embebido)",
+    "estilo": "estratégico-técnico, compatible con GitBook y GitHub"
+  },
+  "siguiente_paso": "continuar redactando la sección 8: Metadatos y reutilización de componentes comunes"
+}
