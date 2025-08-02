@@ -1,4 +1,4 @@
-<img src="./assets/saerco-logo.png" alt="SAERCO" width="200"/>
+<img src="./assets/saerco-logo" alt="SAERCO" width="200"/>
 
 # SAERCO-NEW-SGG
 
