@@ -1,4 +1,6 @@
-# Saerco-NEW-SGG
+# SAERCO-NEW-SGG
+
+![Licencia](https://img.shields.io/badge/licencia-SAERCO%20Privado-red)
 
 Este repositorio contiene la guía y documentación para la evolución del Sistema General de Gestión (SGG) de SAERCO hacia una arquitectura modular, trazable y compatible con herramientas de inteligencia artificial.
 
@@ -17,5 +19,3 @@ Este documento forma parte del Sistema General de Gestión (SGG) de SAERCO. Todo
 Su reproducción, distribución o uso no autorizado está prohibido sin el consentimiento expreso por escrito de SAERCO.
 
 Fecha de actualización: 2025-08-05
-
-![Licencia](https://img.shields.io/badge/licencia-SAERCO%20Privado-red)
