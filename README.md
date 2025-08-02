@@ -1,4 +1,4 @@
-# SGG MASTER
+# Saerco-NEW-SGG
 
 Este repositorio contiene la guía y documentación para la evolución del Sistema General de Gestión (SGG) de SAERCO hacia una arquitectura modular, trazable y compatible con herramientas de inteligencia artificial.
 
