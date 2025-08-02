@@ -1,4 +1,4 @@
-# NEW-SGG-MASTER-DOC
+# SAERCO-NEW-SGG-MASTER-DOC
 
 ## 1. Propósito del documento
 
