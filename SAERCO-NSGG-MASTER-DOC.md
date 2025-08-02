@@ -168,7 +168,7 @@ La arquitectura documental actual se basa en una **estructura piramidal**:
                  │
    ┌─────────────┼─────────────┐
 
-PROCEDIMIENTOS INSTRUCCIONES FORMATOS
+PROCEDIMIENTOS       INSTRUCCIONES FORMATOS
                                 │
                       REGISTROS DEL SISTEMA
 
